@@ -1,6 +1,6 @@
 # Prerequisites
-  Java 8
-  Maven 3.x
+1. Java 8
+2. Maven 3.x
   
 # Getting started
 1. Launch the following command line on the root folder:
